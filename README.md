@@ -27,3 +27,5 @@ python run.py -t
 ```bash
 pytest -v
 ```
+
+# Todas las pruebas completadas.
